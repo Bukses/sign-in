@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">signup</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_name">First Name</string>
+    <string name="prompt_phoneno">Last Name</string>
+    <string name="action_sign_in">REGISTER</string>
+    <string name="action_log_in">LOG IN</string>
+    <string name="image">todo</string>
+    <string name="my_dashboard">Bukunmi Kolawole</string>
+    <string name="occupation">Mobile developer</string>
+    <string name="about">Intern</string>
+    <string name="todo">todo</string>
+    <string name="android">Android</string>
+</resources>
